@@ -8,6 +8,8 @@ I created a **simple Python ChatBot** that responds to specific commands and can
 - Share random jokes
 - Provide a help menu
 - Exit the conversation
+- You can watch my Task 1 demo on LinkedIn here: [Click to Watch](https://www.linkedin.com/posts/activity-7359399121708900352-2po8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADzjEdgBSP2tF39yx5wyJcP55x1xQEOlCvs)
+
 
 ## 🛠 Features
 - Predefined responses for commands: `hello`, `how are you?`, `what is your name?`
@@ -21,5 +23,4 @@ I created a **simple Python ChatBot** that responds to specific commands and can
 ```bash
 python chatbot.py
 ##🎥 Demo Video
-You can watch my Task 1 demo on LinkedIn here: [Click to Watch](https://www.linkedin.com/posts/activity-7359399121708900352-2po8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADzjEdgBSP2tF39yx5wyJcP55x1xQEOlCvs)
 
